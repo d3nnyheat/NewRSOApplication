@@ -1,0 +1,25 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="RSOPPapplication.CatalogForm"
+        Title="Каталог"
+        Width="380" Height="530"
+        Background="CornflowerBlue"
+        Icon="/Assets/rso.ico"
+        WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        <Label Content="Каталог" FontSize="20" FontFamily="Arial" HorizontalContentAlignment="Center"></Label>
+        <DataGrid Name="CatalogGrid" x:CompileBindings="False" Margin ="10 20 0 0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ID}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Наименование" Binding="{Binding Name}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Цена" Binding="{Binding Price}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Margin="10 20 10 10">
+            <Button Name="BackButton" Content="Вернуться к меню" Click="BackToMenu"></Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

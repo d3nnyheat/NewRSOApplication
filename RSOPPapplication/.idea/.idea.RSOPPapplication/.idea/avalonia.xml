@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="RSOPPapplication/AddUpdate.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+        <entry key="RSOPPapplication/App.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+        <entry key="RSOPPapplication/CatalogForm.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+        <entry key="RSOPPapplication/EventsForm.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+        <entry key="RSOPPapplication/LaureateForm.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+        <entry key="RSOPPapplication/MainMenu.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+        <entry key="RSOPPapplication/MainWindow.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+        <entry key="RSOPPapplication/MembersForm.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+        <entry key="RSOPPapplication/OrdersForm.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+        <entry key="RSOPPapplication/SquadForm.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+        <entry key="RSOPPapplication/StaffForm.axaml" value="RSOPPapplication/RSOPPapplication.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

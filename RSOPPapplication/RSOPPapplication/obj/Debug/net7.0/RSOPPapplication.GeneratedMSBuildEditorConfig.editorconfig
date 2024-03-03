@@ -1,0 +1,51 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RSOPPapplication
+build_property.ProjectDir = C:\Users\d3nny\RiderProjects\RSOPPapplication\RSOPPapplication\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/AddUpdate.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/CatalogForm.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/EventsForm.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/LaureateForm.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/LoginWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/MainMenu.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/MembersForm.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/OrdersForm.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/SquadForm.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/d3nny/RiderProjects/RSOPPapplication/RSOPPapplication/StaffForm.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
